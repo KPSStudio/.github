@@ -1,6 +1,6 @@
 <div align="center">
 
-# KPSStudio
+# KPS Studio
 
 ### You envision. We build.
 
